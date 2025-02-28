@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm a Computer Science Engineering student at CEG Guindy, Anna University.<br>I love turning ideas into reality with code. <br>I am excited in developing functional and performant mobile and web app development.<br>
 
+## ☕ Buy Me a Coffee
+My code runs on caffeine, and so do I. Help me fuel the next bug fix! [Send caffeine my way](https://buymeacoffee.com/kan15hka)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kan15hka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishka-s-763062223) 
